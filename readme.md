@@ -32,4 +32,4 @@ This project is a basic investigation of the natural language process. Analyze h
 1. I personally find it is an interesting NLP project, and the idea could used to other places, like how CNN's news impact market.
 2. The key point is how to combine markets and tweets, by quantitative methods. Otherwise, it is completely a data science project.
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gga3nysv48j30vs0u042p.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gga3pp5jz3j30vs0u0wns.jpg)
